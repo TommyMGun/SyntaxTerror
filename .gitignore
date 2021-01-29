@@ -138,4 +138,5 @@ dmypy.json
 cython_debug/
 
 #disreguard token
-.json
+config.json
+shart.bat
